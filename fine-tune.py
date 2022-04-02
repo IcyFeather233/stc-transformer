@@ -34,6 +34,7 @@ def main():
         file_list.append(i)
     print("file nums: " + str(len(file_list)))
 
+    # 主题 译文 赏析
     allzip = []
 
     for eachfile in file_list:
